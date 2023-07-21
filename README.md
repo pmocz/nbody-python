@@ -5,6 +5,8 @@ Vectorized N-body code (Python)
 
 ### Philip Mocz (2020) Princeton Univeristy, [@PMocz](https://twitter.com/PMocz)
 
+### [📝 Read the Algorithm Write-up on Medium](https://medium.com/swlh/create-your-own-n-body-simulation-with-python-f417234885e9)
+
 Simulate orbits of stars interacting due to gravity
 
 Code calculates pairwise forces according to Newton's Law of Gravity
